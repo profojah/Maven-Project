@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>My name is Ojah. One day, I will become a DevOps Guru!</h2>
+<h2>This is a sample App Project for DevOps!</h2>
 </body>
 </html>
